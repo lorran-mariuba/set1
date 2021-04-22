@@ -1,5 +1,5 @@
 # Set - Example 1
-This is a little project that contain basic examples with union, intersection and diference. The implementation is with TreeSet.
+This is a little project that contain basic examples with union, intersection, diference, HashCode and equals. The implementation is with TreeSet and HashSet.
 
 Technologies
 -----------------------------------
